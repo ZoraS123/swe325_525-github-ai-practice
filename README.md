@@ -1,2 +1,10 @@
-# swe325_525-github-ai-practice
-Practice using GitHub issues, branches, commits, pull requests, and AI assistance.
+# GitHub and AI Practice
+
+## Purpose
+This repository is for practicing GitHub issues, branches, commits, and pull requests while documenting the use of AI assistance.
+
+## Scope
+This repository is limited to GitHub workflow and AI-use documentation for SWE 325.
+
+## Student
+Zora Smith
