@@ -55,3 +55,25 @@ Decision: Accepted
 Reason: The checklist helped me notice that ai-log.md and the third commit still needed to be completed.
 
 Related GitHub URL: N/A
+
+## Reflection
+
+### 1. Which GitHub action or object was most useful and why?
+
+The issue was the most useful because it helped me keep track of what I needed to complete for the assignment.
+
+### 2. Which AI suggestion did you accept and what made it useful?
+
+I accepted the suggestion to check what I was missing before creating the pull request. It was useful because I kept forgetting what I still needed to complete.
+
+### 3. Which AI suggestion did you revise or reject and why?
+
+I revised the first explanation of GitHub issues, branches, commits, and pull requests because it was more complicated than I needed. I asked for a simpler explanation that a fifth grader could understand.
+
+### 4. What did you verify yourself instead of trusting AI?
+
+I checked GitHub myself to make sure my feature branch had the required files and commits before creating the pull request.
+
+### 5. What would you change in your workflow next time?
+
+Next time I would keep a checklist of the requirements so I don't have to keep going back to see what I still need to do.
